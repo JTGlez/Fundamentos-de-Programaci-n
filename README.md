@@ -1,4 +1,4 @@
-# Fundamentos-de-Programaci-n
+# Fundamentos-de-Programación
 Repositorio con ejercicios, series y un proyecto final de la asignatura de Fundamentos de Programación. Los algoritmos se escribieron en Pseint con la
 configuración específica para la FI UNAM y los códigos fueron escritos en C. 
 
