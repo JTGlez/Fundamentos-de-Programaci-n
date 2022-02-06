@@ -1,0 +1,37 @@
+Caracteristicas de las diferentes superficies sedimentarias y que barrenas son utiles en cada caso.
+
+Para seleccionar a una barrena dentro en cualquiera de las dos clasificaciones que existen, triconicas y de arrastre, tenemos que tomar en cuenta que ambas requieren de una formacion rocosa.
+
+La forma de ataque dependera del tipo y dureza de la roca que se desea cortar.   
+Como podemos saber las superficies sedimentarias tienen diferente tipo de dureza por lo que debemos de considerar las caracterisiticas de las rocas para ver que tipo de barrena es útil.                                                        
+
+Segun la escala de Mohs y los conocimientos previos; respecto a la asimilacion de rocas sedimentarias, podemos asignar lo siguiente.
+
+Si tenemos , Arcillas y limos ( En este caso nombre de la roca asociada ).
+Obtendremos lo siguiente:
+        Tipo de formaciones : Blandas y muy blandas.
+        Caracteristicas de las formaciones: (Dientes afilados).
+
+Si tenemos , Arenas( En este caso nombre de la roca asociada ).
+Obtendremos lo siguiente:
+        Tipo de formaciones : Medias.
+        Caracteristicas de las formaciones: Fracturas y/o intercaladas (Forma conica).
+
+Si tenemos , Conglomerados( En este caso nombre de la roca asociada ).
+Obtendremos lo siguiente:
+        Tipo de formaciones : Duras y muy duras.
+        Caracteristicas de las formaciones: (Dientes acincelados).
+
+Las formaciones suaves requieren de una barrena de dientes, ya que ese tipo proporciona un ataque de paleado y escareado ideal para formaciones suaves. En el caso de una formacion más dura lo ideal es usar barrenas de arrastre.
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+Las barrenas con dientes de acero se utilizan en formaciones blandas con baja resistencia 
+a la compresión. 
+					FORMACIONES
+Blandas: Dientes largos y bastante espaciados con altas velocidades de penetración.
+Medianamente duras: Dientes intermedios con una cantidad mucho mayor a la anterior, ofrece
+mayor resistencia y permite aumentar el peso sobre la barrena
+Duras: Dientes cortos y con poco espacio entre ellos con una gran resistencia y bajas
+velocidades de rotación.

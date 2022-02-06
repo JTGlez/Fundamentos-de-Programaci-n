@@ -1,0 +1,12 @@
+			UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO
+				Facultad de Ingeniería
+			ASIGNATURA: Fundamentos de Programación
+				       GRUPO: 07
+			TEMA: SELECCIÓN DE BARRENAS DE PERFORACIÓN
+				      INTEGRANTES
+			      Aguilar Pérez Brenda Alejandra
+			      Cruz Montero Carlos Enrique
+			      García Castro Jacob
+			      Gónzalez Rodea Abril Even
+			      Huerta Arriaga Karen
+			      Téllez Gónzalez Jorge Luis

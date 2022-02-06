@@ -1,0 +1,46 @@
+Proceso PuntuacionDado
+	Definir n1, n2, n3 Como Real;
+	Definir D Como Entero;
+	D<-0;
+	Escribir "Introduce tu puntuación obtenida de cada dado";
+	Leer n1;
+	Leer n2;
+	Leer n3;
+	
+	Si n1==6 Entonces
+		D<-D+1;
+	FinSi
+	Si n2==6 Entonces
+		D<-D+1;
+	FinSi
+	Si n3==6 Entonces
+		D<-D+1;
+	FinSi
+	
+	Si D==3 Entonces
+		Escribir "¡Excelente! :o";
+		
+	SiNo
+		Si D==2 Entonces
+			
+			Escribir "¡Bien! :)";
+			
+		SiNo
+			
+			Si D==1 Entonces
+				
+				Escribir "Regular :/";
+				
+			SiNo
+				
+				Escribir "Pésimo :(";
+				
+			FinSi
+			
+			
+		FinSi
+		
+	FinSi
+	
+	
+FinProceso

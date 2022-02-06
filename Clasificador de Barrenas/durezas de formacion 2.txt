@@ -1,0 +1,9 @@
+Durezas de la formacion
+
+Las durezas se consideran de acuerdo al tipo de formacion del sediemento , dentro del tipo de formacion se clasifican las durezas .
+
+Como se sabe en la formacion de una ambiente sedimentario actúan demasiados procesos tales como la meteorizacion, erosion, transporte, deposito, diagénesis y levantamiento.
+
+Esto quiere decir que conforme pasa el tiempo se van formando sedimentos en la corteza terrestre y asi dan como resultado las formaciones y dentro de estas actúan las durezas , por eso es muy importante en la  ingenieria petrolera conocer el tipo de dureza con la que estamos trabajando, esto depende principalmente de la profundidad de donde se esta realizando un pozo y también de las rocas que interactúan .
+
+Como podemos saber los tipos de durezas actuan demasiado en escoger el tipo de barrena a ocupar , ya que tenemos durezas: Muy blandas, blandas, media, dura y muy dura y si llegamos a escoger mal una barrena podria ocurrir una perdida de dinero por mala eleccion del tipo de barrena. 

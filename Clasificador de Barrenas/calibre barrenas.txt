@@ -1,0 +1,20 @@
+Calibres de PDC
+
+En una barrena, el calibre es referido a la parte más baja de la aleta y esta encargada de darle estabilidad a las aletas.
+ Existen diferentes tamaños para el calibre esto depende de su uso (tipo de pozo a perforar) y tamaño de la misma, ya que mientras mayor sea el diametro de la barrena mayor podra ser la longitud del gauge. 
+En esta zona de la barrena es posible la localizacion de cortadores de PDC y/o de proteccion adicional formada por pastillas de PDC adheridas al costado del calibre. Estas caracteristicas dependen de la aplicacion a la que sera sometida. 
+Las barrenas con calibres muy largos son utilizadas principalmente en pozos verticales y las de calibres cortos en pozos direccionales, aunque esto no es una regla, ya que se tiene que observar en conjunto con esta característica el perfil de la barrena.
+
+
+
+
+
+
+
+
+
+
+
+
+
+

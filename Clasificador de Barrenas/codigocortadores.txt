@@ -1,0 +1,22 @@
+El código cuenta con cuatro caracteres para clasificar las barrenas, 
+el primero alfabético y los tres restantes numéricos.  
+
+1. Primer Carácter (Tipo de cuerpo de la barrena), 
+en el primer carácter se muestra el material del 
+que está fabricada la barrena. Con una “M” si es de matriz,
+ y con una “S” si es de acero. 
+
+2. Segundo Carácter (Dureza de la formación). 
+El segundo carácter representa la dureza de formación. 
+La dureza va desde el 1 que indica que es una formación muy blanda, 
+hasta el 7 que indica que se trata de una formación muy dura. 
+
+3. Tercer Carácter (Tamaño y tipo de cortador). 
+Este carácter indica el tipo de cortador y el diámetro 
+de las pastillas de PDC. Esta va desde durezas de formaciones 
+muy blandas a medias. De las durezas de formaciones medias-duras 
+a extremadamente duras ya no es utilizada la pastilla de PDC. 
+
+4.  Cuarto Carácter (Perfil de la barrena). 
+Muestra el perfil de la barrena. Se utiliza el 1 para 
+perfil plano, hasta el 4 que es el perfil parabólico largo. 

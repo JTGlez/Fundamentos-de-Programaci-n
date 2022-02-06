@@ -1,0 +1,30 @@
+Perfiles de barrenas
+El perfil de la barrena se refiere a que tan altos o bajos estan los cortadores de la nariz con respecto al gauge. 
+A diferencia de las barrenas de conos, las cuales cuentan con perfiles muy similares, las barrenas de cortadores fijos cuentan con cuatro tipos principales. Cada uno de estos es utilizado para obtener un cierto resultado durante la perforacion y debe ser escogido con cuidado.
+tenemos 4 tipos de perfiles de barrenas:
+Perfil parabolico largo
+Perfil parabolico medio
+Perfil parabolico corto 
+Perfil plano
+
+Las barrenas con un perfil parabolico largo y medio son utilizadas principalmente en pozos verticales, mientras que las barrenas con el perfil parabolico corto y perfil plano son utilizadas con mayor frecuencia en la perforacion de pozos direccionales.
+
+Tambien existen diferentes diseños de barrenas de arrastre que en general se ajustan a los siguientes perfiles:
+C: Cono 
+G: Gauge (calibre) 
+T: Taper (flanco) 
+S: Shoulder (hombro) 
+N: Nose (nariz)
+
+
+
+
+
+
+
+
+
+
+
+
+

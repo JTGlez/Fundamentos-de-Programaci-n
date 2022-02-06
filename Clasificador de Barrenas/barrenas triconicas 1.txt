@@ -1,0 +1,59 @@
+Tipos de barrenas triconicas
+
+Se clasifican en barrenas con dientes maquinados y en barrenas de insertos.
+
+Las barrenas con dientes de acero se utilizan en formaciones blandas con baja resistencia a la compresion. 
+Barrenas triconicas: Dientes maquinados
+
+Se utilizan en formaciones tipo: 
+
+Blandas (dientes largos)
+Mediamente duras (dientes intermedios)
+Duras (dientes cortos)
+
+Las que poseen insertos se utilizan para perforar formaciones que van de semiduras a duras semi- abrasivas y duras abrasivas.
+
+Barrenas triconicas: Insertos
+
+Se utiliza en formaciones tipo:
+
+Blandas(Dientes afilados)
+Fracturados y/o intercaladas(Forma conica)
+Mediamente duras (Dientes acincelados)
+
+Recomendaciones barrenas triconicas
+
+En formaciones blandas se utilizan dientes largos y agudos, con excentricidad en los conos. En este tipo de formaciones se recomienda perforar con poco o moderado peso sobre barrena y alta velocidad de rotación RPM, ya que el exceso de peso evita la limpieza de los dientes y ocasiona el embolamiento de la barrena.
+
+En formaciones menos blandas se utilizan dientes largos y agudos, con excentricidad en los conos. En este tipo de formaciones se recomienda perforar con poco o moderado peso sobre barrena y alta velocidad de rotación RPM, ya que el exceso de peso evita la limpieza de los dientes y ocasiona el embolamiento de la barrena.
+
+
+Existen codigos para determinar una barrena triconica .
+
+La clasificación se basa en un código de tres caracteres numéricos.
+
+ • Primer Carácter (Serie de la estructura cortadora 1 - 8): Los caracteres de esta serie indican la dureza de la formación, así como también el tipo de estructura de corte de la barrena, ya sea dientes o insertos
+• Segundo Carácter (Tipos de estructura cortadora): El segundo carácter presenta una clasificación de dureza dentro de la dureza definida anteriormente
+• Tercer Carácter (Cojinete/ Calibre): Este carácter indica una descripción interna y externa de la barrena. Hace referencia al diseño del cojinete y a la protección del calibre. Está dividido en siete categorías: 
+1. Cojinete de rodillo estándar no sellado: . 
+2. Cojinete de rodillo enfriado con aire 
+3. Cojinete de rodillo con calibre protegido. 
+4. Cojinete de rodillo sellado. 
+5. Cojinete de rodillo sellado con calibre protegido. 
+6. Cojinete de fricción sellado. 
+7. Cojinete de fricción sellado con calibre protegido.
+
+Los cojinetes funcionan como ejes alrededor de los cuales giran los conos.
+
+Cojinete de Fricción: Las chumaceras soportan altas revoluciones por minuto y bajos pesos sobre la barrena debido a que las cargas se distribuyen de manera uniforme en la superficie del cojinete.
+
+Cojinete de Rodillos: Los cojinetes de rodillos soportan grandes pesos sobre barrena y bajas revoluciones por minuto puesto que las cargas se distribuyen de manera puntual en los rodillos.
+
+La formacion: se refiere a la acumulacion de sedimentos en este caso la acumulacion pueden ser blandas medias, duras y muy duras.
+
+La dureza: se da a entender de cómo esta estructurada una formacion, en pocas palabras son las durezas de las deformaciones.
+
+
+
+
+
